@@ -68,7 +68,7 @@ Replace `TODO_ID` with the actual todo ID.
 ---
 
 ## 4. Debugging & Tools Used
-- **ChatGPT** was used for debugging and testing cURL commands.
+- **ChatGPT** was used for understanding syntax, debugging and testing cURL commands.
 - **Postman** or **cURL** can be used for manual API testing.
 - **Firebase Authentication** is used for securing endpoints.
 
